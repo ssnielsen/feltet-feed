@@ -5,7 +5,7 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Thu, 19 Mar 2026 20:32:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:59:55 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Her er tropperne bag Mads P. i comebacket</title>
@@ -13,7 +13,8 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/her-er-tropperne-bag-mads-p.-i-comebacket/11127741</guid>
       <pubDate>Thu, 19 Mar 2026 18:53:40 GMT</pubDate>
       <description>Lidl-Trek har udtaget truppen til Milano-Sanremo</description>
-
+      <category>Milano - Sanremo</category>
+      <category>Lidl - Trek stats</category>
     </item>
     <item>
       <title>Oversigt: Disse hold er udtaget til Milano-Sanremo</title>
@@ -89,6 +90,15 @@
       <pubDate>Thu, 19 Mar 2026 14:05:51 GMT</pubDate>
       <description>Red Bull har to mand til angrebene og så Laurence Pithie til Milano-Sanremos mulige spurt</description>
 
+    </item>
+    <item>
+      <title>Feltets Fiduser: Milano-Sanremo</title>
+      <link>https://www.feltet.dk/plus/feltets-fiduser-milano-sanremo/11126971</link>
+      <guid isPermaLink="true">https://www.feltet.dk/plus/feltets-fiduser-milano-sanremo/11126971</guid>
+      <pubDate>Thu, 19 Mar 2026 12:19:15 GMT</pubDate>
+      <description>Årets første monument står for døren, i hvad der måske er årets mest imødesete finale overhovedet</description>
+      <category>Milano - Sanremo</category>
+      <category>Milano-Sanremo stats</category>
     </item>
     <item>
       <title>Journalist: Baroncini gør comeback ved Vingegaard-løb</title>
@@ -632,6 +642,126 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/kaek-asgreen-efter-vingegaard-triumf-som-forventet/11123821</guid>
       <pubDate>Sun, 15 Mar 2026 16:33:22 GMT</pubDate>
       <description>EF‑rytteren har været førstehåndsvidne til Vingegaards dominans ved årets Paris-Nice</description>
+
+    </item>
+    <item>
+      <title>Lettet Vingegaard efter triumf: - Endelig lykkes jeg i det &apos;svære&apos; løb</title>
+      <link>https://www.feltet.dk/landevej/lettet-vingegaard-efter-triumf-endelig-lykkes-jeg-i-det-svaere-loeb/11123800</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/lettet-vingegaard-efter-triumf-endelig-lykkes-jeg-i-det-svaere-loeb/11123800</guid>
+      <pubDate>Sun, 15 Mar 2026 16:15:55 GMT</pubDate>
+      <description>Danskeren er lykkelig for endelig at stå øverst på podiet i det udfordrende Paris-Nice</description>
+
+    </item>
+    <item>
+      <title>Dansk cykelhistorie: Suveræne Vingegaard vinder Paris-Nice</title>
+      <link>https://www.feltet.dk/landevej/dansk-cykelhistorie-suveraene-vingegaard-vinder-paris-nice/11123750</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/dansk-cykelhistorie-suveraene-vingegaard-vinder-paris-nice/11123750</guid>
+      <pubDate>Sun, 15 Mar 2026 15:42:36 GMT</pubDate>
+      <description>Jonas Vingegaard er den samlede vinder af Paris-Nice efter en andenplads på sidste etape</description>
+
+    </item>
+    <item>
+      <title>Milan triumferede for tredje år i træk - Del Toro tager treforken</title>
+      <link>https://www.feltet.dk/landevej/milan-triumferede-for-tredje-aar-i-traek-del-toro-tager-treforken/11123706</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/milan-triumferede-for-tredje-aar-i-traek-del-toro-tager-treforken/11123706</guid>
+      <pubDate>Sun, 15 Mar 2026 14:46:38 GMT</pubDate>
+      <description>Hjemmebanefavoritten Jonathan Milan sikrede sig et imponerende hattrick i Tirreno-Adriatico</description>
+
+    </item>
+    <item>
+      <title>Minut for minut: Sådan skrev Vingegaard historie</title>
+      <link>https://www.feltet.dk/live/minut-for-minut-saadan-skrev-vingegaard-historie/11115701</link>
+      <guid isPermaLink="true">https://www.feltet.dk/live/minut-for-minut-saadan-skrev-vingegaard-historie/11115701</guid>
+      <pubDate>Sun, 15 Mar 2026 13:06:00 GMT</pubDate>
+      <description>Følg Jonas Vingegaards sæsondebut i livebloggen herunder</description>
+
+    </item>
+    <item>
+      <title>Roglic holder pause på knap fire måneder</title>
+      <link>https://www.feltet.dk/landevej/roglic-holder-pause-paa-knap-fire-maaneder/11123508</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/roglic-holder-pause-paa-knap-fire-maaneder/11123508</guid>
+      <pubDate>Sun, 15 Mar 2026 12:55:00 GMT</pubDate>
+      <description>Ingen løb for sloveneren i mange måneder op til Vueltaen</description>
+
+    </item>
+    <item>
+      <title>Minut for minut: Hjemmebanefavorritten sikrede vildt hattrick</title>
+      <link>https://www.feltet.dk/live/minut-for-minut-hjemmebanefavorritten-sikrede-vildt-hattrick/11117425</link>
+      <guid isPermaLink="true">https://www.feltet.dk/live/minut-for-minut-hjemmebanefavorritten-sikrede-vildt-hattrick/11117425</guid>
+      <pubDate>Sun, 15 Mar 2026 12:29:00 GMT</pubDate>
+      <description>Vi liveopdaterer hele ugen fra Tirreno-Adriatico her i bloggen. Lørdag skal det store klassementsslag slås</description>
+
+    </item>
+    <item>
+      <title>Milano-Sanremo i sigtekornet: Søren Kragh pønser på &apos;sikkert angreb&apos;</title>
+      <link>https://www.feltet.dk/landevej/milano-sanremo-i-sigtekornet-soeren-kragh-poenser-paa-sikkert-angreb/11123580</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/milano-sanremo-i-sigtekornet-soeren-kragh-poenser-paa-sikkert-angreb/11123580</guid>
+      <pubDate>Sun, 15 Mar 2026 12:06:13 GMT</pubDate>
+      <description>Søren Kragh Andersen vil først og fremmest sikkert i mål på søndagen afsluttende etape af Paris-Nice</description>
+
+    </item>
+    <item>
+      <title>Lund har lavet lektier inden ikonisk Tirreno-afslutning</title>
+      <link>https://www.feltet.dk/landevej/lund-har-lavet-lektier-inden-ikonisk-tirreno-afslutning/11123517</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/lund-har-lavet-lektier-inden-ikonisk-tirreno-afslutning/11123517</guid>
+      <pubDate>Sun, 15 Mar 2026 11:40:33 GMT</pubDate>
+      <description>Danskeren stiller velforberedt til start til søndagens sidste etape i Tirreno-Adriatico</description>
+
+    </item>
+    <item>
+      <title>Red Bull-sportsdirektør: Remco kan vinde Touren</title>
+      <link>https://www.feltet.dk/landevej/red-bull-sportsdirektoer-remco-kan-vinde-touren/11123482</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/red-bull-sportsdirektoer-remco-kan-vinde-touren/11123482</guid>
+      <pubDate>Sun, 15 Mar 2026 10:30:00 GMT</pubDate>
+      <description>Remco Evenepoel var på podiet i Tour de France i 2024</description>
+
+    </item>
+    <item>
+      <title>Den enlige rytter i front: - En barndomsdrøm</title>
+      <link>https://www.feltet.dk/landevej/den-enlige-rytter-i-front-en-barndomsdroem/11123469</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/den-enlige-rytter-i-front-en-barndomsdroem/11123469</guid>
+      <pubDate>Sun, 15 Mar 2026 09:50:00 GMT</pubDate>
+      <description>Alpecin-rytteren fik masser af tv-tid ude foran</description>
+
+    </item>
+    <item>
+      <title>Tredobbelt verdensmester: - Pogacar er den bedste nogensinde</title>
+      <link>https://www.feltet.dk/landevej/tredobbelt-verdensmester-pogacar-er-den-bedste-nogensinde/11123431</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/tredobbelt-verdensmester-pogacar-er-den-bedste-nogensinde/11123431</guid>
+      <pubDate>Sun, 15 Mar 2026 09:01:00 GMT</pubDate>
+      <description>Den tidligere vinder af tre VM-titler har en klar kandidat til den bedste i historien</description>
+
+    </item>
+    <item>
+      <title>Medie: Jorgenson i fysisk konfrontation</title>
+      <link>https://www.feltet.dk/landevej/medie-jorgenson-i-fysisk-konfrontation/11123401</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/medie-jorgenson-i-fysisk-konfrontation/11123401</guid>
+      <pubDate>Sun, 15 Mar 2026 08:15:43 GMT</pubDate>
+      <description>Der skulle have været gang i den ved Visma-bussen i Italien</description>
+
+    </item>
+    <item>
+      <title>Feltets Fiduser: 8. etape af Paris-Nice (+ Tirreno-Adriatico)</title>
+      <link>https://www.feltet.dk/landevej/feltets-fiduser-8.-etape-af-paris-nice-tirreno-adriatico/11122792</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/feltets-fiduser-8.-etape-af-paris-nice-tirreno-adriatico/11122792</guid>
+      <pubDate>Sun, 15 Mar 2026 08:00:00 GMT</pubDate>
+      <description>Det sidste slag skal slås i både Frankrig og Italien. Kan der ske ændringer på podiet i Paris-Nice, og kan Tobias Lund Andresen vinde igen i Tirreno-Adriatico?</description>
+
+    </item>
+    <item>
+      <title>Van der Poel om Pogacar: - Kun et spørgsmål om tid</title>
+      <link>https://www.feltet.dk/landevej/van-der-poel-om-pogacar-kun-et-spoergsmaal-om-tid/11123193</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/van-der-poel-om-pogacar-kun-et-spoergsmaal-om-tid/11123193</guid>
+      <pubDate>Sun, 15 Mar 2026 07:00:00 GMT</pubDate>
+      <description>Mathieu Van der Poel og Tadej Pogacar skal mødes for første gang i denne sæson på lørdag</description>
+
+    </item>
+    <item>
+      <title>Medie: Decathlon på rov blandt Pogacars hjælpere</title>
+      <link>https://www.feltet.dk/landevej/medie-decathlon-paa-rov-blandt-pogacars-hjaelpere/11123144</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/medie-decathlon-paa-rov-blandt-pogacars-hjaelpere/11123144</guid>
+      <pubDate>Sun, 15 Mar 2026 06:00:00 GMT</pubDate>
+      <description>Ifølge L&apos;Equipe mister Tadej Pogacar en af sine hjælpere</description>
 
     </item>
   </channel>
