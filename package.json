@@ -1,0 +1,12 @@
+{
+  "name": "feltet-feed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node --experimental-strip-types src/generate.ts"
+  },
+  "dependencies": {
+    "devalue": "^5.1.1"
+  }
+}
