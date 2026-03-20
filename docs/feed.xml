@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 09:48:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:17:22 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kan Mads P. følge Pogacar og Van der Poel?</title>
+      <link>https://www.feltet.dk/plus/kan-mads-p.-foelge-pogacar-og-van-der-poel/11127922</link>
+      <guid isPermaLink="true">https://www.feltet.dk/plus/kan-mads-p.-foelge-pogacar-og-van-der-poel/11127922</guid>
+      <pubDate>Fri, 20 Mar 2026 09:56:21 GMT</pubDate>
+      <description>Per Bausagers telefon eksploderede med beskeder torsdag aften, og kalder Mads Pedersen for &apos;en led satan&apos;, når han sådan kan gøre comeback i Milano-Sanremo</description>
+      <category>Mads Pedersen</category>
+      <category>Mads Pedersen stats</category>
+    </item>
     <item>
       <title>- Så er det ikke Cipollini, der pludselig vinder</title>
       <link>https://www.feltet.dk/landevej/saa-er-det-ikke-cipollini-der-pludselig-vinder/11128072</link>
@@ -806,14 +815,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/tredobbelt-verdensmester-pogacar-er-den-bedste-nogensinde/11123431</guid>
       <pubDate>Sun, 15 Mar 2026 09:01:00 GMT</pubDate>
       <description>Den tidligere vinder af tre VM-titler har en klar kandidat til den bedste i historien</description>
-
-    </item>
-    <item>
-      <title>Medie: Jorgenson i fysisk konfrontation</title>
-      <link>https://www.feltet.dk/landevej/medie-jorgenson-i-fysisk-konfrontation/11123401</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/medie-jorgenson-i-fysisk-konfrontation/11123401</guid>
-      <pubDate>Sun, 15 Mar 2026 08:15:43 GMT</pubDate>
-      <description>Der skulle have været gang i den ved Visma-bussen i Italien</description>
 
     </item>
   </channel>
