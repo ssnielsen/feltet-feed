@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 18:49:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 19:19:19 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>- Ikke skræddersyet til mig, indrømmer Pogacar</title>
+      <link>https://www.feltet.dk/landevej/ikke-skraeddersyet-til-mig-indroemmer-pogacar/11128786</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/ikke-skraeddersyet-til-mig-indroemmer-pogacar/11128786</guid>
+      <pubDate>Fri, 20 Mar 2026 18:59:23 GMT</pubDate>
+      <description>Milano-Sanremo har været en hård nød at knække for verdensmesteren</description>
+
+    </item>
     <item>
       <title>Mads P. har trodset lægens dystre prognose</title>
       <link>https://www.feltet.dk/landevej/mads-p.-har-trodset-laegens-dystre-prognose/11128752</link>
@@ -814,14 +822,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/incoming/roert-vingegaard-hylder-danske-fans/11123857</guid>
       <pubDate>Sun, 15 Mar 2026 17:23:16 GMT</pubDate>
       <description>Jonas Vingegaard fik masser af rød-hvid opbakning på den sidste etape af Paris-Nice</description>
-
-    </item>
-    <item>
-      <title>Van der Poel forklarer vanvidsføring</title>
-      <link>https://www.feltet.dk/landevej/van-der-poel-forklarer-vanvidsfoering/11123840</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/van-der-poel-forklarer-vanvidsfoering/11123840</guid>
-      <pubDate>Sun, 15 Mar 2026 17:01:55 GMT</pubDate>
-      <description>Den hollandske stjerne var ikke til meget hjælp for sin sprinter på dagens etape af Tirreno-Adriatico</description>
 
     </item>
   </channel>
