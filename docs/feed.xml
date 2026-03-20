@@ -5,8 +5,25 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 16:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 17:18:47 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Van der Poel vs. Pogacar - hvem vinder Sanremo?</title>
+      <link>https://www.feltet.dk/plus/van-der-poel-vs.-pogacar-hvem-vinder-sanremo/11128699</link>
+      <guid isPermaLink="true">https://www.feltet.dk/plus/van-der-poel-vs.-pogacar-hvem-vinder-sanremo/11128699</guid>
+      <pubDate>Fri, 20 Mar 2026 17:14:38 GMT</pubDate>
+      <description>Hvordan skaber Tadej Pogacar et scenarie i Milano-Sanremo, der rent faktisk gør, at han endelig kan få skovlen under løbet - og Mathieu van der Poel ikke mindst. Per Bausager analyserer</description>
+
+    </item>
+    <item>
+      <title>Kim A. afviser Mads P.-spekulation</title>
+      <link>https://www.feltet.dk/landevej/kim-a.-afviser-mads-p.-spekulation/11128531</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/kim-a.-afviser-mads-p.-spekulation/11128531</guid>
+      <pubDate>Fri, 20 Mar 2026 17:00:00 GMT</pubDate>
+      <description>Mads Pedersens uventede melding overraskede selv Kim A.</description>
+      <category>Milano - Sanremo</category>
+      <category>Mads Pedersen stats</category>
+    </item>
     <item>
       <title>Dansker tæt på sensation</title>
       <link>https://www.feltet.dk/landevej/dansker-taet-paa-sensation/11128662</link>
@@ -804,22 +821,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/kaek-asgreen-efter-vingegaard-triumf-som-forventet/11123821</guid>
       <pubDate>Sun, 15 Mar 2026 16:33:22 GMT</pubDate>
       <description>EF‑rytteren har været førstehåndsvidne til Vingegaards dominans ved årets Paris-Nice</description>
-
-    </item>
-    <item>
-      <title>Lettet Vingegaard efter triumf: - Endelig lykkes jeg i det &apos;svære&apos; løb</title>
-      <link>https://www.feltet.dk/landevej/lettet-vingegaard-efter-triumf-endelig-lykkes-jeg-i-det-svaere-loeb/11123800</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/lettet-vingegaard-efter-triumf-endelig-lykkes-jeg-i-det-svaere-loeb/11123800</guid>
-      <pubDate>Sun, 15 Mar 2026 16:15:55 GMT</pubDate>
-      <description>Danskeren er lykkelig for endelig at stå øverst på podiet i det udfordrende Paris-Nice</description>
-
-    </item>
-    <item>
-      <title>Dansk cykelhistorie: Suveræne Vingegaard vinder Paris-Nice</title>
-      <link>https://www.feltet.dk/landevej/dansk-cykelhistorie-suveraene-vingegaard-vinder-paris-nice/11123750</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/dansk-cykelhistorie-suveraene-vingegaard-vinder-paris-nice/11123750</guid>
-      <pubDate>Sun, 15 Mar 2026 15:42:36 GMT</pubDate>
-      <description>Jonas Vingegaard er den samlede vinder af Paris-Nice efter en andenplads på sidste etape</description>
 
     </item>
   </channel>
