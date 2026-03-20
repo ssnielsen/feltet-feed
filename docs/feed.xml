@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 12:49:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 13:31:22 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Evenepoel fanget på vulkan: Tvivlsom til Vingegaard-duel</title>
+      <link>https://www.feltet.dk/landevej/evenepoel-fanget-paa-vulkan-tvivlsom-til-vingegaard-duel/11128461</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/evenepoel-fanget-paa-vulkan-tvivlsom-til-vingegaard-duel/11128461</guid>
+      <pubDate>Fri, 20 Mar 2026 13:20:13 GMT</pubDate>
+      <description>Remco Evenepoels kone har spurgt om hjælp</description>
+      <category>Volta a Catalunya</category>
+      <category>Catalonien Rundt stats</category>
+    </item>
     <item>
       <title>Stor debat om Vingegaard og Tour-bekymring</title>
       <link>https://www.feltet.dk/landevej/stor-debat-om-vingegaard-og-tour-bekymring/11128364</link>
@@ -809,14 +818,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/live/minut-for-minut-hjemmebanefavorritten-sikrede-vildt-hattrick/11117425</guid>
       <pubDate>Sun, 15 Mar 2026 12:29:00 GMT</pubDate>
       <description>Vi liveopdaterer hele ugen fra Tirreno-Adriatico her i bloggen. Lørdag skal det store klassementsslag slås</description>
-
-    </item>
-    <item>
-      <title>Milano-Sanremo i sigtekornet: Søren Kragh pønser på &apos;sikkert angreb&apos;</title>
-      <link>https://www.feltet.dk/landevej/milano-sanremo-i-sigtekornet-soeren-kragh-poenser-paa-sikkert-angreb/11123580</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/milano-sanremo-i-sigtekornet-soeren-kragh-poenser-paa-sikkert-angreb/11123580</guid>
-      <pubDate>Sun, 15 Mar 2026 12:06:13 GMT</pubDate>
-      <description>Søren Kragh Andersen vil først og fremmest sikkert i mål på søndagen afsluttende etape af Paris-Nice</description>
 
     </item>
   </channel>
