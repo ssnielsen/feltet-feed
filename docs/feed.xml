@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 17:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 17:46:46 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Van der Poel øjner fordel mod Pogacar</title>
+      <link>https://www.feltet.dk/landevej/van-der-poel-oejner-fordel-mod-pogacar/11128710</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/van-der-poel-oejner-fordel-mod-pogacar/11128710</guid>
+      <pubDate>Fri, 20 Mar 2026 17:45:00 GMT</pubDate>
+      <description>Den mulige modvind er det store samtaleemne dagen før dagen</description>
+
+    </item>
     <item>
       <title>Van der Poel vs. Pogacar - hvem vinder Sanremo?</title>
       <link>https://www.feltet.dk/plus/van-der-poel-vs.-pogacar-hvem-vinder-sanremo/11128699</link>
@@ -813,14 +821,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/swinkels-slog-legendarisk-landsmand-i-italiensk-klassiker/11123839</guid>
       <pubDate>Sun, 15 Mar 2026 17:00:48 GMT</pubDate>
       <description>Mie Bjørndal Ottestad blev treer, mens det resterende podie var hollandsk i Trofeo Alfredo Binda&amp;#xa0;</description>
-
-    </item>
-    <item>
-      <title>Kæk Asgreen efter Vingegaard-triumf: - Som forventet</title>
-      <link>https://www.feltet.dk/landevej/kaek-asgreen-efter-vingegaard-triumf-som-forventet/11123821</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/kaek-asgreen-efter-vingegaard-triumf-som-forventet/11123821</guid>
-      <pubDate>Sun, 15 Mar 2026 16:33:22 GMT</pubDate>
-      <description>EF‑rytteren har været førstehåndsvidne til Vingegaards dominans ved årets Paris-Nice</description>
 
     </item>
   </channel>
