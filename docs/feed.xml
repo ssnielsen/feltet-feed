@@ -5,14 +5,30 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 10:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:47:38 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kan Mads P. følge Pogacar og Van der Poel?</title>
-      <link>https://www.feltet.dk/plus/kan-mads-p.-foelge-pogacar-og-van-der-poel/11127922</link>
-      <guid isPermaLink="true">https://www.feltet.dk/plus/kan-mads-p.-foelge-pogacar-og-van-der-poel/11127922</guid>
+      <title>Svensk stortalent scorer Visma-kontrakt</title>
+      <link>https://www.feltet.dk/landevej/svensk-stortalent-scorer-visma-kontrakt/11128249</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/svensk-stortalent-scorer-visma-kontrakt/11128249</guid>
+      <pubDate>Fri, 20 Mar 2026 10:42:36 GMT</pubDate>
+      <description>Team Visma Lease a Bike har lukket aftalen med to talenter</description>
+
+    </item>
+    <item>
+      <title>Kæmpe dansk rekord ved Milano-Sanremo</title>
+      <link>https://www.feltet.dk/landevej/kaempe-dansk-rekord-ved-milano-sanremo/11128168</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/kaempe-dansk-rekord-ved-milano-sanremo/11128168</guid>
+      <pubDate>Fri, 20 Mar 2026 10:24:58 GMT</pubDate>
+      <description>Der bliver hele 14 danskere ved Milano-Sanremo 2026</description>
+
+    </item>
+    <item>
+      <title>Kan Mads P. vinde Milano-Sanremo?</title>
+      <link>https://www.feltet.dk/plus/kan-mads-p.-vinde-milano-sanremo/11127922</link>
+      <guid isPermaLink="true">https://www.feltet.dk/plus/kan-mads-p.-vinde-milano-sanremo/11127922</guid>
       <pubDate>Fri, 20 Mar 2026 09:56:21 GMT</pubDate>
-      <description>Per Bausagers telefon eksploderede med beskeder torsdag aften, og kalder Mads Pedersen for &apos;en led satan&apos;, når han sådan kan gøre comeback i Milano-Sanremo</description>
+      <description>Per Bausagers telefon eksploderede med beskeder torsdag aften, og han kalder Mads Pedersen for &apos;en led satan&apos;, når han sådan kan gøre comeback i Milano-Sanremo</description>
       <category>Mads Pedersen</category>
       <category>Mads Pedersen stats</category>
     </item>
@@ -799,22 +815,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/red-bull-sportsdirektoer-remco-kan-vinde-touren/11123482</guid>
       <pubDate>Sun, 15 Mar 2026 10:30:00 GMT</pubDate>
       <description>Remco Evenepoel var på podiet i Tour de France i 2024</description>
-
-    </item>
-    <item>
-      <title>Den enlige rytter i front: - En barndomsdrøm</title>
-      <link>https://www.feltet.dk/landevej/den-enlige-rytter-i-front-en-barndomsdroem/11123469</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/den-enlige-rytter-i-front-en-barndomsdroem/11123469</guid>
-      <pubDate>Sun, 15 Mar 2026 09:50:00 GMT</pubDate>
-      <description>Alpecin-rytteren fik masser af tv-tid ude foran</description>
-
-    </item>
-    <item>
-      <title>Tredobbelt verdensmester: - Pogacar er den bedste nogensinde</title>
-      <link>https://www.feltet.dk/landevej/tredobbelt-verdensmester-pogacar-er-den-bedste-nogensinde/11123431</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/tredobbelt-verdensmester-pogacar-er-den-bedste-nogensinde/11123431</guid>
-      <pubDate>Sun, 15 Mar 2026 09:01:00 GMT</pubDate>
-      <description>Den tidligere vinder af tre VM-titler har en klar kandidat til den bedste i historien</description>
 
     </item>
   </channel>
