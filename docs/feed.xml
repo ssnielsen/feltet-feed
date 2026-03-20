@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 06:34:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 07:07:57 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Verdens nummer et vender tilbage til Danmark</title>
+      <link>https://www.feltet.dk/landevej/verdens-nummer-et-vender-tilbage-til-danmark/11127540</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/verdens-nummer-et-vender-tilbage-til-danmark/11127540</guid>
+      <pubDate>Fri, 20 Mar 2026 07:00:00 GMT</pubDate>
+      <description>Top tre kører igen Copenhagen Sprint</description>
+      <category>Copenhagen Sprint Women</category>
+      <category>Copenhagen Sprint Women stats</category>
+    </item>
     <item>
       <title>Klassiker Manager: Dansk must i Sanremo</title>
       <link>https://www.feltet.dk/plus/klassiker-manager-dansk-must-i-sanremo/11127073</link>
@@ -804,14 +813,6 @@ Paris-Nice Spillet: Satser på kongeetapen</title>
       <guid isPermaLink="true">https://www.feltet.dk/landevej/afsloerer-problem-bange-for-ikke-at-gennemfoere/11123177</guid>
       <pubDate>Sat, 14 Mar 2026 19:00:00 GMT</pubDate>
       <description>Giulio Pellizzari kæmpede med alt, hvad han havde på hjemmebane</description>
-
-    </item>
-    <item>
-      <title>Johannessen var næstbedst: - Kan være stolt</title>
-      <link>https://www.feltet.dk/landevej/johannessen-var-naestbedst-kan-vaere-stolt/11123160</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/johannessen-var-naestbedst-kan-vaere-stolt/11123160</guid>
-      <pubDate>Sat, 14 Mar 2026 18:25:00 GMT</pubDate>
-      <description>Tobias Halland Johannesen har kørt et flot løb i Italien</description>
 
     </item>
   </channel>
