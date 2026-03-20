@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 14:31:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 15:03:17 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>- Med modvind har Pogacar absolut ingen chance, siger tidligere CSC-profil</title>
+      <link>https://www.feltet.dk/landevej/med-modvind-har-pogacar-absolut-ingen-chance-siger-tidligere-csc-profil/11128601</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/med-modvind-har-pogacar-absolut-ingen-chance-siger-tidligere-csc-profil/11128601</guid>
+      <pubDate>Fri, 20 Mar 2026 14:57:27 GMT</pubDate>
+      <description>Karsten Kroon tror ikke, at Tadej Pogacar kan køre fra Mathieu van der Poel, hvis vejrudsigten holder stik</description>
+      <category>Milano - Sanremo</category>
+      <category>Milano-Sanremo stats</category>
+    </item>
     <item>
       <title>Albert Philipsen er kørt på hospitalet</title>
       <link>https://www.feltet.dk/landevej/albert-philipsen-er-koert-paa-hospitalet/11128569</link>
@@ -811,14 +820,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/milan-triumferede-for-tredje-aar-i-traek-del-toro-tager-treforken/11123706</guid>
       <pubDate>Sun, 15 Mar 2026 14:46:38 GMT</pubDate>
       <description>Hjemmebanefavoritten Jonathan Milan sikrede sig et imponerende hattrick i Tirreno-Adriatico</description>
-
-    </item>
-    <item>
-      <title>Minut for minut: Sådan skrev Vingegaard historie</title>
-      <link>https://www.feltet.dk/live/minut-for-minut-saadan-skrev-vingegaard-historie/11115701</link>
-      <guid isPermaLink="true">https://www.feltet.dk/live/minut-for-minut-saadan-skrev-vingegaard-historie/11115701</guid>
-      <pubDate>Sun, 15 Mar 2026 13:06:00 GMT</pubDate>
-      <description>Følg Jonas Vingegaards sæsondebut i livebloggen herunder</description>
 
     </item>
   </channel>
