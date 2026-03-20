@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 12:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 12:49:40 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stor debat om Vingegaard og Tour-bekymring</title>
+      <link>https://www.feltet.dk/landevej/stor-debat-om-vingegaard-og-tour-bekymring/11128364</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/stor-debat-om-vingegaard-og-tour-bekymring/11128364</guid>
+      <pubDate>Fri, 20 Mar 2026 12:39:36 GMT</pubDate>
+      <description>Er man for skeptisk, hvis man tænker negativt om Jonas Vingegaards Tour de France ovenpå Paris-Nice-sejren? Og skal man overhovedet være kritisk om Touren? Det er blevet debatteret på X og Viaplay</description>
+      <category>Jonas Vingegaard</category>
+      <category>Jonas Vingegaard stats</category>
+    </item>
     <item>
       <title>UAE-stjerne glipper Milano-Sanremo</title>
       <link>https://www.feltet.dk/landevej/uae-stjerne-glipper-milano-sanremo/11128347</link>
@@ -808,14 +817,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/milano-sanremo-i-sigtekornet-soeren-kragh-poenser-paa-sikkert-angreb/11123580</guid>
       <pubDate>Sun, 15 Mar 2026 12:06:13 GMT</pubDate>
       <description>Søren Kragh Andersen vil først og fremmest sikkert i mål på søndagen afsluttende etape af Paris-Nice</description>
-
-    </item>
-    <item>
-      <title>Lund har lavet lektier inden ikonisk Tirreno-afslutning</title>
-      <link>https://www.feltet.dk/landevej/lund-har-lavet-lektier-inden-ikonisk-tirreno-afslutning/11123517</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/lund-har-lavet-lektier-inden-ikonisk-tirreno-afslutning/11123517</guid>
-      <pubDate>Sun, 15 Mar 2026 11:40:33 GMT</pubDate>
-      <description>Danskeren stiller velforberedt til start til søndagens sidste etape i Tirreno-Adriatico</description>
 
     </item>
   </channel>
