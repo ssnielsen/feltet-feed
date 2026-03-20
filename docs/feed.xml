@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 11:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 11:33:16 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>UAE-stjerne glipper Milano-Sanremo</title>
+      <link>https://www.feltet.dk/landevej/uae-stjerne-glipper-milano-sanremo/11128347</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/uae-stjerne-glipper-milano-sanremo/11128347</guid>
+      <pubDate>Fri, 20 Mar 2026 11:28:50 GMT</pubDate>
+      <description>Elisa Longo Borghini kommer ikke til at vinde sit hjemlands monument&amp;#xa0;</description>
+      <category>Milano - Sanremo</category>
+      <category>Milano-Sanremo Donne stats</category>
+    </item>
     <item>
       <title>Svensk stortalent scorer Visma-kontrakt</title>
       <link>https://www.feltet.dk/landevej/svensk-stortalent-scorer-visma-kontrakt/11128249</link>
@@ -807,14 +816,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/lund-har-lavet-lektier-inden-ikonisk-tirreno-afslutning/11123517</guid>
       <pubDate>Sun, 15 Mar 2026 11:40:33 GMT</pubDate>
       <description>Danskeren stiller velforberedt til start til søndagens sidste etape i Tirreno-Adriatico</description>
-
-    </item>
-    <item>
-      <title>Red Bull-sportsdirektør: Remco kan vinde Touren</title>
-      <link>https://www.feltet.dk/landevej/red-bull-sportsdirektoer-remco-kan-vinde-touren/11123482</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/red-bull-sportsdirektoer-remco-kan-vinde-touren/11123482</guid>
-      <pubDate>Sun, 15 Mar 2026 10:30:00 GMT</pubDate>
-      <description>Remco Evenepoel var på podiet i Tour de France i 2024</description>
 
     </item>
   </channel>
