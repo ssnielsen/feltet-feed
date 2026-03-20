@@ -5,8 +5,25 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 07:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 08:21:30 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vismas stortalent blev tørret: - Svært at beslutte</title>
+      <link>https://www.feltet.dk/landevej/vismas-stortalent-blev-toerret-svaert-at-beslutte/11128001</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/vismas-stortalent-blev-toerret-svaert-at-beslutte/11128001</guid>
+      <pubDate>Fri, 20 Mar 2026 08:16:22 GMT</pubDate>
+      <description>Per Strand Hagenes var stærkest, men Alec Segaert klogest, da torsdagens franske endagsløb skulle afgøres</description>
+
+    </item>
+    <item>
+      <title>Honoré var nærmest supertrio: Satser på gentagelse</title>
+      <link>https://www.feltet.dk/landevej/honore-var-naermest-supertrio-satser-paa-gentagelse/11127726</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/honore-var-naermest-supertrio-satser-paa-gentagelse/11127726</guid>
+      <pubDate>Fri, 20 Mar 2026 08:08:43 GMT</pubDate>
+      <description>Danskeren var flyvende sidste år på Cipressa, men nærmest ingen vidste det</description>
+      <category>Milano - Sanremo</category>
+      <category>Mikkel Honoré stats</category>
+    </item>
     <item>
       <title>Alle EF-danskerne kører monument</title>
       <link>https://www.feltet.dk/landevej/alle-ef-danskerne-koerer-monument/11127980</link>
@@ -796,23 +813,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/medie-decathlon-paa-rov-blandt-pogacars-hjaelpere/11123144</guid>
       <pubDate>Sun, 15 Mar 2026 06:00:00 GMT</pubDate>
       <description>Ifølge L&apos;Equipe mister Tadej Pogacar en af sine hjælpere</description>
-
-    </item>
-    <item>
-      <title>
-Paris-Nice Spillet: Satser på kongeetapen</title>
-      <link>https://www.feltet.dk/plus/paris-nice-spillet-satser-paa-kongeetapen/11123309</link>
-      <guid isPermaLink="true">https://www.feltet.dk/plus/paris-nice-spillet-satser-paa-kongeetapen/11123309</guid>
-      <pubDate>Sun, 15 Mar 2026 00:39:07 GMT</pubDate>
-      <description>Feltets ekspert har et ambitiøst sats i ærmet til sidste etape i managerspillet</description>
-
-    </item>
-    <item>
-      <title>Unge danskere med fremme</title>
-      <link>https://www.feltet.dk/landevej/unge-danskere-med-fremme/11123202</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/unge-danskere-med-fremme/11123202</guid>
-      <pubDate>Sat, 14 Mar 2026 20:00:00 GMT</pubDate>
-      <description>Lørdag skulle juniorerne på brosten</description>
 
     </item>
   </channel>
