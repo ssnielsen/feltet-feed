@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 18:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:49:06 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mads P. har trodset lægens dystre prognose</title>
+      <link>https://www.feltet.dk/landevej/mads-p.-har-trodset-laegens-dystre-prognose/11128752</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/mads-p.-har-trodset-laegens-dystre-prognose/11128752</guid>
+      <pubDate>Fri, 20 Mar 2026 18:30:00 GMT</pubDate>
+      <description>Den danske klassikerkonge er ugevis foran planen</description>
+      <category>Mads Pedersen stats</category>
+      <category>Mads Pedersen</category>
+    </item>
     <item>
       <title>Van der Poel øjner fordel mod Pogacar</title>
       <link>https://www.feltet.dk/landevej/van-der-poel-oejner-fordel-mod-pogacar/11128710</link>
@@ -813,14 +822,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/van-der-poel-forklarer-vanvidsfoering/11123840</guid>
       <pubDate>Sun, 15 Mar 2026 17:01:55 GMT</pubDate>
       <description>Den hollandske stjerne var ikke til meget hjælp for sin sprinter på dagens etape af Tirreno-Adriatico</description>
-
-    </item>
-    <item>
-      <title>Swinkels slog legendarisk landsmand i italiensk klassiker</title>
-      <link>https://www.feltet.dk/landevej/swinkels-slog-legendarisk-landsmand-i-italiensk-klassiker/11123839</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/swinkels-slog-legendarisk-landsmand-i-italiensk-klassiker/11123839</guid>
-      <pubDate>Sun, 15 Mar 2026 17:00:48 GMT</pubDate>
-      <description>Mie Bjørndal Ottestad blev treer, mens det resterende podie var hollandsk i Trofeo Alfredo Binda&amp;#xa0;</description>
 
     </item>
   </channel>
