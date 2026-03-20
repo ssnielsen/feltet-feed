@@ -5,8 +5,24 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 08:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 08:47:03 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Skidt nyt fra Visma: Brennan misser Sanremo</title>
+      <link>https://www.feltet.dk/landevej/skidt-nyt-fra-visma-brennan-misser-sanremo/11128052</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/skidt-nyt-fra-visma-brennan-misser-sanremo/11128052</guid>
+      <pubDate>Fri, 20 Mar 2026 08:45:57 GMT</pubDate>
+      <description>Matthew Brennan er syg og misser Milano-Sanremo</description>
+      <category>Milano - Sanremo</category>
+    </item>
+    <item>
+      <title>Tim Merlier er tilbage</title>
+      <link>https://www.feltet.dk/landevej/tim-merlier-er-tilbage/11128050</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/tim-merlier-er-tilbage/11128050</guid>
+      <pubDate>Fri, 20 Mar 2026 08:44:35 GMT</pubDate>
+      <description>Tim Merlier er endelig klar til at få sæsondebut</description>
+
+    </item>
     <item>
       <title>Vismas stortalent blev tørret: - Svært at beslutte</title>
       <link>https://www.feltet.dk/landevej/vismas-stortalent-blev-toerret-svaert-at-beslutte/11128001</link>
@@ -797,22 +813,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/feltets-fiduser-8.-etape-af-paris-nice-tirreno-adriatico/11122792</guid>
       <pubDate>Sun, 15 Mar 2026 08:00:00 GMT</pubDate>
       <description>Det sidste slag skal slås i både Frankrig og Italien. Kan der ske ændringer på podiet i Paris-Nice, og kan Tobias Lund Andresen vinde igen i Tirreno-Adriatico?</description>
-
-    </item>
-    <item>
-      <title>Van der Poel om Pogacar: - Kun et spørgsmål om tid</title>
-      <link>https://www.feltet.dk/landevej/van-der-poel-om-pogacar-kun-et-spoergsmaal-om-tid/11123193</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/van-der-poel-om-pogacar-kun-et-spoergsmaal-om-tid/11123193</guid>
-      <pubDate>Sun, 15 Mar 2026 07:00:00 GMT</pubDate>
-      <description>Mathieu Van der Poel og Tadej Pogacar skal mødes for første gang i denne sæson på lørdag</description>
-
-    </item>
-    <item>
-      <title>Medie: Decathlon på rov blandt Pogacars hjælpere</title>
-      <link>https://www.feltet.dk/landevej/medie-decathlon-paa-rov-blandt-pogacars-hjaelpere/11123144</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/medie-decathlon-paa-rov-blandt-pogacars-hjaelpere/11123144</guid>
-      <pubDate>Sun, 15 Mar 2026 06:00:00 GMT</pubDate>
-      <description>Ifølge L&apos;Equipe mister Tadej Pogacar en af sine hjælpere</description>
 
     </item>
   </channel>
