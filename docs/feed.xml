@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 09:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 09:48:04 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>- Så er det ikke Cipollini, der pludselig vinder</title>
+      <link>https://www.feltet.dk/landevej/saa-er-det-ikke-cipollini-der-pludselig-vinder/11128072</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/saa-er-det-ikke-cipollini-der-pludselig-vinder/11128072</guid>
+      <pubDate>Fri, 20 Mar 2026 09:37:18 GMT</pubDate>
+      <description>En velforberedt Magnus Cort er atter klar til at køre om et topresultat på Via Roma</description>
+      <category>Magnus Cort</category>
+      <category>Magnus Cort stats</category>
+    </item>
     <item>
       <title>Skidt nyt for Visma: Brennan misser Sanremo</title>
       <link>https://www.feltet.dk/landevej/skidt-nyt-for-visma-brennan-misser-sanremo/11128052</link>
@@ -805,14 +814,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/medie-jorgenson-i-fysisk-konfrontation/11123401</guid>
       <pubDate>Sun, 15 Mar 2026 08:15:43 GMT</pubDate>
       <description>Der skulle have været gang i den ved Visma-bussen i Italien</description>
-
-    </item>
-    <item>
-      <title>Feltets Fiduser: 8. etape af Paris-Nice (+ Tirreno-Adriatico)</title>
-      <link>https://www.feltet.dk/landevej/feltets-fiduser-8.-etape-af-paris-nice-tirreno-adriatico/11122792</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/feltets-fiduser-8.-etape-af-paris-nice-tirreno-adriatico/11122792</guid>
-      <pubDate>Sun, 15 Mar 2026 08:00:00 GMT</pubDate>
-      <description>Det sidste slag skal slås i både Frankrig og Italien. Kan der ske ændringer på podiet i Paris-Nice, og kan Tobias Lund Andresen vinde igen i Tirreno-Adriatico?</description>
 
     </item>
   </channel>
