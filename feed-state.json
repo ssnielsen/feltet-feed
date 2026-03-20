@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-20T14:05:55.288Z",
+  "lastRun": "2026-03-20T14:31:54.186Z",
   "articles": {
     "11115701": {
       "id": "11115701",
@@ -1072,6 +1072,17 @@
         "Milano-Sanremo stats"
       ],
       "imageUrl": "https://www.feltet.dk/p-image/cyhEoShcPZjIpHjetXxNIboLO49cDUpJtAxKI0_AKao/AAADOhcVuLA/feltet/11128528/{representation}/"
+    },
+    "11128569": {
+      "id": "11128569",
+      "title": "Albert Philipsen er kørt på hospitalet",
+      "url": "/landevej/albert-philipsen-er-koert-paa-hospitalet/11128569",
+      "description": "Albert Philipsen er igen styrtet",
+      "published": "2026-03-20T14:23:23Z",
+      "tags": [
+        "Lidl-Trek"
+      ],
+      "imageUrl": "https://www.feltet.dk/p-image/qI1n6vUAnai-vgsRnmt9M1ppodks7FgQdSAl6UUszEA/AAADOYjF1jA/feltet/11115684/{representation}/"
     }
   }
 }

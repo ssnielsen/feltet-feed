@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 14:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 14:31:54 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Albert Philipsen er kørt på hospitalet</title>
+      <link>https://www.feltet.dk/landevej/albert-philipsen-er-koert-paa-hospitalet/11128569</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/albert-philipsen-er-koert-paa-hospitalet/11128569</guid>
+      <pubDate>Fri, 20 Mar 2026 14:23:23 GMT</pubDate>
+      <description>Albert Philipsen er igen styrtet</description>
+      <category>Lidl-Trek</category>
+    </item>
     <item>
       <title>Sløj Sanremo-optakt: Tobias Lund har været syg</title>
       <link>https://www.feltet.dk/landevej/sloej-sanremo-optakt-tobias-lund-har-vaeret-syg/11128499</link>
@@ -811,14 +819,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/live/minut-for-minut-saadan-skrev-vingegaard-historie/11115701</guid>
       <pubDate>Sun, 15 Mar 2026 13:06:00 GMT</pubDate>
       <description>Følg Jonas Vingegaards sæsondebut i livebloggen herunder</description>
-
-    </item>
-    <item>
-      <title>Roglic holder pause på knap fire måneder</title>
-      <link>https://www.feltet.dk/landevej/roglic-holder-pause-paa-knap-fire-maaneder/11123508</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/roglic-holder-pause-paa-knap-fire-maaneder/11123508</guid>
-      <pubDate>Sun, 15 Mar 2026 12:55:00 GMT</pubDate>
-      <description>Ingen løb for sloveneren i mange måneder op til Vueltaen</description>
 
     </item>
   </channel>
