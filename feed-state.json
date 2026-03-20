@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-20T04:41:49.666Z",
+  "lastRun": "2026-03-20T05:13:33.029Z",
   "articles": {
     "11115701": {
       "id": "11115701",
@@ -778,6 +778,17 @@
       "tags": [],
       "imageUrl": null
     },
+    "11127073": {
+      "id": "11127073",
+      "title": "Klassiker Manager: Dansk must i Sanremo",
+      "url": "/plus/klassiker-manager-dansk-must-i-sanremo/11127073",
+      "description": "Feltets ekspert giver sit bud på, hvem der er værd at satse på i managerspillet",
+      "published": "2026-03-20T05:00:00Z",
+      "tags": [
+        "Managerspil"
+      ],
+      "imageUrl": "https://www.feltet.dk/p-image/osvE-V8xpe0q8y-62IvN-XrjeVw_YxkWqdtVc6GOhEw/AAADOgtgYGA/feltet/11127189/{representation}/"
+    },
     "11127082": {
       "id": "11127082",
       "title": "Del Toro meldes til start i klassikere",
@@ -849,6 +860,18 @@
       "published": "2026-03-19T16:50:00Z",
       "tags": [],
       "imageUrl": null
+    },
+    "11127686": {
+      "id": "11127686",
+      "title": "Løjtnant indikerer UAE's store Sanremo-plan",
+      "url": "/landevej/loejtnant-indikerer-uaes-store-sanremo-plan/11127686",
+      "description": "Hvordan skal Tadej Pogacar endelig få sin sejr i Sanremo?",
+      "published": "2026-03-20T05:00:00Z",
+      "tags": [
+        "Milano - Sanremo",
+        "UAE Team Emirates - XRG stats"
+      ],
+      "imageUrl": "https://www.feltet.dk/p-image/OLgwBaI4NNvrRa1-bcbY8KYgqiAI6e6_3oDli74Z8oc/AAADOg4DTaA/feltet/11127691/{representation}/"
     },
     "11127698": {
       "id": "11127698",
