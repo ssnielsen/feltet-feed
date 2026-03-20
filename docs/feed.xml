@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 13:31:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 14:05:55 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sløj Sanremo-optakt: Tobias Lund har været syg</title>
+      <link>https://www.feltet.dk/landevej/sloej-sanremo-optakt-tobias-lund-har-vaeret-syg/11128499</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/sloej-sanremo-optakt-tobias-lund-har-vaeret-syg/11128499</guid>
+      <pubDate>Fri, 20 Mar 2026 14:01:34 GMT</pubDate>
+      <description>Tobias Lund kører lørdag sit blot andet monument. Dagene op til Milano-Sanremo er ikke været optimale for den ellers formstærke dansker</description>
+      <category>Milano - Sanremo</category>
+      <category>Milano-Sanremo stats</category>
+    </item>
     <item>
       <title>Evenepoel fanget på vulkan: Tvivlsom til Vingegaard-duel</title>
       <link>https://www.feltet.dk/landevej/evenepoel-fanget-paa-vulkan-tvivlsom-til-vingegaard-duel/11128461</link>
@@ -810,14 +819,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/roglic-holder-pause-paa-knap-fire-maaneder/11123508</guid>
       <pubDate>Sun, 15 Mar 2026 12:55:00 GMT</pubDate>
       <description>Ingen løb for sloveneren i mange måneder op til Vueltaen</description>
-
-    </item>
-    <item>
-      <title>Minut for minut: Hjemmebanefavorritten sikrede vildt hattrick</title>
-      <link>https://www.feltet.dk/live/minut-for-minut-hjemmebanefavorritten-sikrede-vildt-hattrick/11117425</link>
-      <guid isPermaLink="true">https://www.feltet.dk/live/minut-for-minut-hjemmebanefavorritten-sikrede-vildt-hattrick/11117425</guid>
-      <pubDate>Sun, 15 Mar 2026 12:29:00 GMT</pubDate>
-      <description>Vi liveopdaterer hele ugen fra Tirreno-Adriatico her i bloggen. Lørdag skal det store klassementsslag slås</description>
 
     </item>
   </channel>
