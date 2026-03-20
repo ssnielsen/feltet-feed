@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Fri, 20 Mar 2026 15:30:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 16:00:51 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dansker tæt på kæmpe sensationen</title>
+      <link>https://www.feltet.dk/landevej/dansker-taet-paa-kaempe-sensationen/11128662</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/dansker-taet-paa-kaempe-sensationen/11128662</guid>
+      <pubDate>Fri, 20 Mar 2026 15:49:20 GMT</pubDate>
+      <description>Henrik Pedersen greb ud efter sejren i Bredene Koksijde Classic</description>
+      <category>Bredene Koksijde Classic</category>
+    </item>
     <item>
       <title>- Med modvind har Pogacar absolut ingen chance, siger tidligere CSC-profil</title>
       <link>https://www.feltet.dk/landevej/med-modvind-har-pogacar-absolut-ingen-chance-siger-tidligere-csc-profil/11128601</link>
@@ -812,14 +820,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/dansk-cykelhistorie-suveraene-vingegaard-vinder-paris-nice/11123750</guid>
       <pubDate>Sun, 15 Mar 2026 15:42:36 GMT</pubDate>
       <description>Jonas Vingegaard er den samlede vinder af Paris-Nice efter en andenplads på sidste etape</description>
-
-    </item>
-    <item>
-      <title>Milan triumferede for tredje år i træk - Del Toro tager treforken</title>
-      <link>https://www.feltet.dk/landevej/milan-triumferede-for-tredje-aar-i-traek-del-toro-tager-treforken/11123706</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/milan-triumferede-for-tredje-aar-i-traek-del-toro-tager-treforken/11123706</guid>
-      <pubDate>Sun, 15 Mar 2026 14:46:38 GMT</pubDate>
-      <description>Hjemmebanefavoritten Jonathan Milan sikrede sig et imponerende hattrick i Tirreno-Adriatico</description>
 
     </item>
   </channel>
