@@ -5,7 +5,7 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 16:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 16:27:19 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Pogacar styrtede i vild sejr: - Troede, at det var slut</title>
@@ -13,7 +13,8 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/pogacar-styrtede-i-vild-sejr-troede-at-det-var-slut/11129320</guid>
       <pubDate>Sat, 21 Mar 2026 16:09:56 GMT</pubDate>
       <description>Sloveneren leverede en pragtpræstation i sin monumentsejr</description>
-
+      <category>Milano - Sanremo</category>
+      <category>Milano-Sanremo stats</category>
     </item>
     <item>
       <title>Pogacar vinder vanvittigt Sanremo efter styrt</title>
