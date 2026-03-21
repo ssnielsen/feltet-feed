@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 15:41:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 15:53:50 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pogacar vinder vanvittigt Sanremo efter styrt</title>
+      <link>https://www.feltet.dk/landevej/pogacar-vinder-vanvittigt-sanremo-efter-styrt/11129263</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/pogacar-vinder-vanvittigt-sanremo-efter-styrt/11129263</guid>
+      <pubDate>Sat, 21 Mar 2026 15:50:33 GMT</pubDate>
+      <description>Alt var imod Tadej Pogacar, men sloveneren gjorde det færdigt</description>
+      <category>Milano - Sanremo</category>
+      <category>Milano-Sanremo stats</category>
+    </item>
     <item>
       <title>Movistar rundbarberet i bjergløb</title>
       <link>https://www.feltet.dk/landevej/movistar-rundbarberet-i-bjergloeb/11129247</link>
@@ -50,9 +59,9 @@
       <category>Doping</category>
     </item>
     <item>
-      <title>Pogacar og Pidcock kører væk - Van der Poel slipper</title>
-      <link>https://www.feltet.dk/landevej/pogacar-og-pidcock-koerer-vaek-van-der-poel-slipper/11126645</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/pogacar-og-pidcock-koerer-vaek-van-der-poel-slipper/11126645</guid>
+      <title>Pogacar snupper vanvittigt Sanremo</title>
+      <link>https://www.feltet.dk/landevej/pogacar-snupper-vanvittigt-sanremo/11126645</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/pogacar-snupper-vanvittigt-sanremo/11126645</guid>
       <pubDate>Sat, 21 Mar 2026 08:35:00 GMT</pubDate>
       <description>Vi liveopdaterer hele dagen fra årets første monument! Følg med her</description>
       <category>Live</category>
@@ -818,14 +827,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/uheldig-colombianer-overvejede-at-udgaa/11124365</guid>
       <pubDate>Mon, 16 Mar 2026 10:31:50 GMT</pubDate>
       <description>Daniel Felipe Martínez var tæt på at smide det hele på sidstedagen af Paris-Nice</description>
-
-    </item>
-    <item>
-      <title>Bregnhøj med fremme på vigtig etape</title>
-      <link>https://www.feltet.dk/landevej/bregnhoej-med-fremme-paa-vigtig-etape/11124312</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/bregnhoej-med-fremme-paa-vigtig-etape/11124312</guid>
-      <pubDate>Mon, 16 Mar 2026 09:54:00 GMT</pubDate>
-      <description>Mathias Bregnhøj kom med førergruppen ind i Tour of Taiwan, og holder sig fremme i klassementet i etapeløbet</description>
 
     </item>
   </channel>
