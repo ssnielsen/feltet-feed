@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 17:55:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 18:13:04 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mads P. efter flot comeback: - Betyder mere, end de tror</title>
+      <link>https://www.feltet.dk/landevej/mads-p.-efter-flot-comeback-betyder-mere-end-de-tror/11129442</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/mads-p.-efter-flot-comeback-betyder-mere-end-de-tror/11129442</guid>
+      <pubDate>Sat, 21 Mar 2026 18:10:00 GMT</pubDate>
+      <description>Mads Pedersen blev lørdag nummer fire i Milano-Sanremo</description>
+      <category>Milano - Sanremo</category>
+      <category>Milano-Sanremo stats</category>
+    </item>
     <item>
       <title>Bausager: - Som en Mads P. der aldrig har været væk</title>
       <link>https://www.feltet.dk/landevej/bausager-som-en-mads-p.-der-aldrig-har-vaeret-vaek/11129385</link>
@@ -823,14 +832,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/de-unge-lever-professionelt-pogacar-var-bare-et-naturtalent/11124545</guid>
       <pubDate>Mon, 16 Mar 2026 14:30:09 GMT</pubDate>
       <description>Tadej Pogacars hjælperytter, Domen Novak, mener, at Tadej Pogacar er større naturtalent end Paul Seixas</description>
-
-    </item>
-    <item>
-      <title>Danske profiler føler sig heldige: - Et privilegium</title>
-      <link>https://www.feltet.dk/landevej/danske-profiler-foeler-sig-heldige-et-privilegium/11124508</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/danske-profiler-foeler-sig-heldige-et-privilegium/11124508</guid>
-      <pubDate>Mon, 16 Mar 2026 13:21:11 GMT</pubDate>
-      <description>Taknemmelighed er et stort ord, der fylder meget hos Casper Pedersen og Kasper Asgreen, når snakken falder på deres liv</description>
 
     </item>
   </channel>
