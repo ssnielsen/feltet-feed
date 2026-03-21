@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 17:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 17:26:10 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Van Aert vidste ikke, han jagtede podiet</title>
+      <link>https://www.feltet.dk/landevej/van-aert-vidste-ikke-han-jagtede-podiet/11129354</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/van-aert-vidste-ikke-han-jagtede-podiet/11129354</guid>
+      <pubDate>Sat, 21 Mar 2026 17:20:00 GMT</pubDate>
+      <description>En kaotisk finale gjorde det svært at få overblik</description>
+      <category>Milano - Sanremo</category>
+      <category>Milano-Sanremo stats</category>
+    </item>
     <item>
       <title>Van der Poel slap: Kunne ikke holde ordentligt på sit styr</title>
       <link>https://www.feltet.dk/landevej/van-der-poel-slap-kunne-ikke-holde-ordentligt-paa-sit-styr/11129361</link>
@@ -821,14 +830,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/spansk-hold-mister-mangeaarig-sponsor/11124489</guid>
       <pubDate>Mon, 16 Mar 2026 12:57:24 GMT</pubDate>
       <description>Kern Pharma stopper på holdet ved samme navn efter årets udgang</description>
-
-    </item>
-    <item>
-      <title>Tudor forlænger med klatrerkomet</title>
-      <link>https://www.feltet.dk/landevej/tudor-forlaenger-med-klatrerkomet/11124447</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/tudor-forlaenger-med-klatrerkomet/11124447</guid>
-      <pubDate>Mon, 16 Mar 2026 12:10:04 GMT</pubDate>
-      <description>Mathys Rondel er lige kørt i top-10 i Paris-Nice, og nu har han også skrevet under på en lang kontrakt</description>
 
     </item>
   </channel>
