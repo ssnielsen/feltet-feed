@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 14:29:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 14:46:24 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Positiv melding efter skrækstyrt</title>
+      <link>https://www.feltet.dk/landevej/positiv-melding-efter-skraekstyrt/11129218</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/positiv-melding-efter-skraekstyrt/11129218</guid>
+      <pubDate>Sat, 21 Mar 2026 14:36:48 GMT</pubDate>
+      <description>Holdet er heldigvis kommet med en foreløbig positiv opdatering</description>
+
+    </item>
     <item>
       <title>Vanvidsstyrt stjal opmærksomheden i overbevisende Kopecky-triumf</title>
       <link>https://www.feltet.dk/landevej/vanvidsstyrt-stjal-opmaerksomheden-i-overbevisende-kopecky-triumf/11129169</link>
@@ -34,9 +42,9 @@
       <category>Doping</category>
     </item>
     <item>
-      <title>Styrt! Ganna undslipper akkurat</title>
-      <link>https://www.feltet.dk/landevej/styrt-ganna-undslipper-akkurat/11126645</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/styrt-ganna-undslipper-akkurat/11126645</guid>
+      <title>Pogacar tager kontrollen</title>
+      <link>https://www.feltet.dk/landevej/pogacar-tager-kontrollen/11126645</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/pogacar-tager-kontrollen/11126645</guid>
       <pubDate>Sat, 21 Mar 2026 08:35:00 GMT</pubDate>
       <description>Vi liveopdaterer hele dagen fra årets første monument! Følg med her</description>
       <category>Live</category>
@@ -818,14 +826,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/casper-p.-hjaelper-dansk-hold-nyder-at-kunne-give-tilbage/11124254</guid>
       <pubDate>Mon, 16 Mar 2026 08:56:58 GMT</pubDate>
       <description>Quick Step-danskeren er en del af cykelholdet Team Cranks. For det er vigtigt at holde fødekæden i gang, fortæller han</description>
-
-    </item>
-    <item>
-      <title>Tysk sensation på podiet efter mareridtsår</title>
-      <link>https://www.feltet.dk/landevej/tysk-sensation-paa-podiet-efter-mareridtsaar/11124232</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/tysk-sensation-paa-podiet-efter-mareridtsaar/11124232</guid>
-      <pubDate>Mon, 16 Mar 2026 08:25:43 GMT</pubDate>
-      <description>Georg Steinhauser kunne søndag sikre sig tredjepladsen i Paris-Nice efter et 2025, der blev ødelagt af sygdom</description>
 
     </item>
   </channel>
