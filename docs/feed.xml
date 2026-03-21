@@ -5,8 +5,17 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 17:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 17:42:31 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bausager: - Som en Mads P. der aldrig har været væk</title>
+      <link>https://www.feltet.dk/landevej/bausager-som-en-mads-p.-der-aldrig-har-vaeret-vaek/11129385</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/bausager-som-en-mads-p.-der-aldrig-har-vaeret-vaek/11129385</guid>
+      <pubDate>Sat, 21 Mar 2026 17:40:00 GMT</pubDate>
+      <description>Per Bausager hylder danskerens præstation i Milano-Sanremo og ser ham ramme topniveau frem mod klassikerne</description>
+      <category>Mads Pedersen</category>
+      <category>Milano-Sanremo stats</category>
+    </item>
     <item>
       <title>Van Aert vidste ikke, han jagtede podiet</title>
       <link>https://www.feltet.dk/landevej/van-aert-vidste-ikke-han-jagtede-podiet/11129354</link>
@@ -822,14 +831,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/danske-profiler-foeler-sig-heldige-et-privilegium/11124508</guid>
       <pubDate>Mon, 16 Mar 2026 13:21:11 GMT</pubDate>
       <description>Taknemmelighed er et stort ord, der fylder meget hos Casper Pedersen og Kasper Asgreen, når snakken falder på deres liv</description>
-
-    </item>
-    <item>
-      <title>Spansk hold mister mangeårig sponsor</title>
-      <link>https://www.feltet.dk/landevej/spansk-hold-mister-mangeaarig-sponsor/11124489</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/spansk-hold-mister-mangeaarig-sponsor/11124489</guid>
-      <pubDate>Mon, 16 Mar 2026 12:57:24 GMT</pubDate>
-      <description>Kern Pharma stopper på holdet ved samme navn efter årets udgang</description>
 
     </item>
   </channel>
