@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 19:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 19:29:25 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kopecky ellevild efter stor sejr: - Kunne ikke lade det ske</title>
+      <link>https://www.feltet.dk/landevej/kopecky-ellevild-efter-stor-sejr-kunne-ikke-lade-det-ske/11129459</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/kopecky-ellevild-efter-stor-sejr-kunne-ikke-lade-det-ske/11129459</guid>
+      <pubDate>Sat, 21 Mar 2026 19:20:00 GMT</pubDate>
+      <description>Lotte Kopecky tilføjede lørdag endnu en stor sejr til sit kæmpe cv</description>
+
+    </item>
     <item>
       <title>Fire centimeter fra monumentsejr: - Er ret skuffet</title>
       <link>https://www.feltet.dk/landevej/fire-centimeter-fra-monumentsejr-er-ret-skuffet/11129355</link>
@@ -824,14 +832,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/lidl-trek-opretter-juniorhold-et-stort-skridt/11124584</guid>
       <pubDate>Mon, 16 Mar 2026 15:45:00 GMT</pubDate>
       <description>Det er uvurderligt, siger Lidl-Trek</description>
-
-    </item>
-    <item>
-      <title>Storsprintere slipper med skrækken før Milano-Sanremo</title>
-      <link>https://www.feltet.dk/landevej/storsprintere-slipper-med-skraekken-foer-milano-sanremo/11124569</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/storsprintere-slipper-med-skraekken-foer-milano-sanremo/11124569</guid>
-      <pubDate>Mon, 16 Mar 2026 15:15:00 GMT</pubDate>
-      <description>Jasper Philipsen og Paul Magnier styrtede sammen</description>
 
     </item>
   </channel>
