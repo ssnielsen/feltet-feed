@@ -5,12 +5,21 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 16:27:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 16:46:25 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Pogacar styrtede i vild sejr: - Troede, at det var slut</title>
-      <link>https://www.feltet.dk/landevej/pogacar-styrtede-i-vild-sejr-troede-at-det-var-slut/11129320</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/pogacar-styrtede-i-vild-sejr-troede-at-det-var-slut/11129320</guid>
+      <title>Van der Poel slap: Kunne ikke holde ordentligt på sit styr</title>
+      <link>https://www.feltet.dk/landevej/van-der-poel-slap-kunne-ikke-holde-ordentligt-paa-sit-styr/11129361</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/van-der-poel-slap-kunne-ikke-holde-ordentligt-paa-sit-styr/11129361</guid>
+      <pubDate>Sat, 21 Mar 2026 16:40:35 GMT</pubDate>
+      <description>Mathieu Van der Poel kunne ikke sidde med, da Tadej Pogacar og Tom Pidcock kørte væk</description>
+      <category>Milano - Sanremo</category>
+      <category>Milano-Sanremo stats</category>
+    </item>
+    <item>
+      <title>Pogacar: - Troede, at det var slut</title>
+      <link>https://www.feltet.dk/landevej/pogacar-troede-at-det-var-slut/11129320</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/pogacar-troede-at-det-var-slut/11129320</guid>
       <pubDate>Sat, 21 Mar 2026 16:09:56 GMT</pubDate>
       <description>Sloveneren leverede en pragtpræstation i sin monumentsejr</description>
       <category>Milano - Sanremo</category>
@@ -820,14 +829,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/tudor-forlaenger-med-klatrerkomet/11124447</guid>
       <pubDate>Mon, 16 Mar 2026 12:10:04 GMT</pubDate>
       <description>Mathys Rondel er lige kørt i top-10 i Paris-Nice, og nu har han også skrevet under på en lang kontrakt</description>
-
-    </item>
-    <item>
-      <title>Glad Vingegaard: - Føler mig mere afslappet</title>
-      <link>https://www.feltet.dk/landevej/glad-vingegaard-foeler-mig-mere-afslappet/11124405</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/glad-vingegaard-foeler-mig-mere-afslappet/11124405</guid>
-      <pubDate>Mon, 16 Mar 2026 11:35:26 GMT</pubDate>
-      <description>Jonas Vingegaard er svært begejstret for sit løbsprogram i år, og det kan mærkes på danskeren</description>
 
     </item>
   </channel>
