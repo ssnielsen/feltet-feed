@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 15:53:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 16:10:40 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pogacar styrtede i vild sejr: - Troede, at det var slut</title>
+      <link>https://www.feltet.dk/landevej/pogacar-styrtede-i-vild-sejr-troede-at-det-var-slut/11129320</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/pogacar-styrtede-i-vild-sejr-troede-at-det-var-slut/11129320</guid>
+      <pubDate>Sat, 21 Mar 2026 16:09:56 GMT</pubDate>
+      <description>Sloveneren leverede en pragtpræstation i sin monumentsejr</description>
+
+    </item>
     <item>
       <title>Pogacar vinder vanvittigt Sanremo efter styrt</title>
       <link>https://www.feltet.dk/landevej/pogacar-vinder-vanvittigt-sanremo-efter-styrt/11129263</link>
@@ -59,9 +67,9 @@
       <category>Doping</category>
     </item>
     <item>
-      <title>Pogacar snupper vanvittigt Sanremo</title>
-      <link>https://www.feltet.dk/landevej/pogacar-snupper-vanvittigt-sanremo/11126645</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/pogacar-snupper-vanvittigt-sanremo/11126645</guid>
+      <title>Mads P. og Pogacar reagerer på vanvittig finale</title>
+      <link>https://www.feltet.dk/landevej/mads-p.-og-pogacar-reagerer-paa-vanvittig-finale/11126645</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/mads-p.-og-pogacar-reagerer-paa-vanvittig-finale/11126645</guid>
       <pubDate>Sat, 21 Mar 2026 08:35:00 GMT</pubDate>
       <description>Vi liveopdaterer hele dagen fra årets første monument! Følg med her</description>
       <category>Live</category>
@@ -819,14 +827,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/glad-vingegaard-foeler-mig-mere-afslappet/11124405</guid>
       <pubDate>Mon, 16 Mar 2026 11:35:26 GMT</pubDate>
       <description>Jonas Vingegaard er svært begejstret for sit løbsprogram i år, og det kan mærkes på danskeren</description>
-
-    </item>
-    <item>
-      <title>Uheldig colombianer: Overvejede at udgå</title>
-      <link>https://www.feltet.dk/landevej/uheldig-colombianer-overvejede-at-udgaa/11124365</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/uheldig-colombianer-overvejede-at-udgaa/11124365</guid>
-      <pubDate>Mon, 16 Mar 2026 10:31:50 GMT</pubDate>
-      <description>Daniel Felipe Martínez var tæt på at smide det hele på sidstedagen af Paris-Nice</description>
 
     </item>
   </channel>
