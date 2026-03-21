@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sat, 21 Mar 2026 18:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 18:57:55 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fire centimeter fra monumentsejr: - Er ret skuffet</title>
+      <link>https://www.feltet.dk/landevej/fire-centimeter-fra-monumentsejr-er-ret-skuffet/11129355</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/fire-centimeter-fra-monumentsejr-er-ret-skuffet/11129355</guid>
+      <pubDate>Sat, 21 Mar 2026 18:50:00 GMT</pubDate>
+      <description>Det kunne ikke have været meget tættere for Tom Pidcock i lørdagens Milano-Sanremo</description>
+
+    </item>
     <item>
       <title>Mads P. efter flot comeback: - Betyder mere, end de tror</title>
       <link>https://www.feltet.dk/landevej/mads-p.-efter-flot-comeback-betyder-mere-end-de-tror/11129442</link>
@@ -824,14 +832,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/storsprintere-slipper-med-skraekken-foer-milano-sanremo/11124569</guid>
       <pubDate>Mon, 16 Mar 2026 15:15:00 GMT</pubDate>
       <description>Jasper Philipsen og Paul Magnier styrtede sammen</description>
-
-    </item>
-    <item>
-      <title>De unge lever professionelt: Pogacar var bare et naturtalent</title>
-      <link>https://www.feltet.dk/landevej/de-unge-lever-professionelt-pogacar-var-bare-et-naturtalent/11124545</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/de-unge-lever-professionelt-pogacar-var-bare-et-naturtalent/11124545</guid>
-      <pubDate>Mon, 16 Mar 2026 14:30:09 GMT</pubDate>
-      <description>Tadej Pogacars hjælperytter, Domen Novak, mener, at Tadej Pogacar er større naturtalent end Paul Seixas</description>
 
     </item>
   </channel>
