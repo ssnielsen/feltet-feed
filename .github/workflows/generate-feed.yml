@@ -1,8 +1,8 @@
 name: Generate RSS Feed
 on:
-  schedule:
+  # schedule:
     # Every 15 minutes, but only between 06:00 and 21:59 UTC (skip nighttime)
-    - cron: '*/15 6-21 * * *'
+    # - cron: '*/15 6-21 * * *'
   workflow_dispatch: {}
 concurrency:
   group: feed-generation
