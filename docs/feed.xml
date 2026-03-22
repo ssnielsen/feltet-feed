@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sun, 22 Mar 2026 10:27:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 10:46:18 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Roglic trækker i land: - Måske var der tale om en lille misforståelse</title>
+      <link>https://www.feltet.dk/landevej/roglic-traekker-i-land-maaske-var-der-tale-om-en-lille-misforstaaelse/11129732</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/roglic-traekker-i-land-maaske-var-der-tale-om-en-lille-misforstaaelse/11129732</guid>
+      <pubDate>Sun, 22 Mar 2026 10:34:16 GMT</pubDate>
+      <description>Primoz Roglic kom forleden med en overraskende melding om, at han ikke ville køre løb i fire måneder</description>
+      <category>Primoz Roglic</category>
+    </item>
     <item>
       <title>Fløj ud over autoværnet: Nu er der nyt </title>
       <link>https://www.feltet.dk/landevej/floej-ud-over-autovaernet-nu-er-der-nyt/11129713</link>
@@ -825,14 +833,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/cykelhold-roevet-ved-hoejlys-dag-chef-truet-med-kniv/11125141</guid>
       <pubDate>Tue, 17 Mar 2026 10:09:45 GMT</pubDate>
       <description>Holdet mistede flere cykler</description>
-
-    </item>
-    <item>
-      <title>Vingegaards superhjælper åbner op om enorm opofrelse</title>
-      <link>https://www.feltet.dk/landevej/vingegaards-superhjaelper-aabner-op-om-enorm-opofrelse/11125098</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/vingegaards-superhjaelper-aabner-op-om-enorm-opofrelse/11125098</guid>
-      <pubDate>Tue, 17 Mar 2026 09:25:12 GMT</pubDate>
-      <description>Victor Campenaerts har dedikeret sit liv til at være den bedst mulige hjælper for Jonas Vingegaard</description>
 
     </item>
   </channel>
