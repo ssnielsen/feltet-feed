@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sun, 22 Mar 2026 08:31:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 08:56:59 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Skjelmose står på startlisten til Catalonien Rundt</title>
+      <link>https://www.feltet.dk/landevej/skjelmose-staar-paa-startlisten-til-catalonien-rundt/11129664</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/skjelmose-staar-paa-startlisten-til-catalonien-rundt/11129664</guid>
+      <pubDate>Sun, 22 Mar 2026 08:49:25 GMT</pubDate>
+      <description>Mattias Skjelmose kommer med al sandsynlighed til at køre årets Catalonien Rundt, der skydes i gang i morgen</description>
+      <category>Catalonien Rundt stats</category>
+    </item>
     <item>
       <title>Uheldig Philipsen: Sæsonstarten har ikke været den nemmeste</title>
       <link>https://www.feltet.dk/incoming/uheldig-philipsen-saesonstarten-har-ikke-vaeret-den-nemmeste/11129648</link>
@@ -825,14 +833,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/debuterer-som-38-aarig-vil-ramme-300-kilometer-paa-strava/11124763</guid>
       <pubDate>Mon, 16 Mar 2026 19:00:00 GMT</pubDate>
       <description>Wout Poels skal prøve noget, som han ikke har prøvet før</description>
-
-    </item>
-    <item>
-      <title>Uijtdebroeks vender tilbage efter brud</title>
-      <link>https://www.feltet.dk/landevej/uijtdebroeks-vender-tilbage-efter-brud/11124727</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/uijtdebroeks-vender-tilbage-efter-brud/11124727</guid>
-      <pubDate>Mon, 16 Mar 2026 18:20:00 GMT</pubDate>
-      <description>Cian Uijtdebroeks er igen klar til løb</description>
 
     </item>
   </channel>

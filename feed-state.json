@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-22T08:31:58.202Z",
+  "lastRun": "2026-03-22T08:56:59.189Z",
   "articles": {
     "11115701": {
       "id": "11115701",
@@ -1356,6 +1356,17 @@
       "published": "2026-03-22T08:10:52Z",
       "tags": [],
       "imageUrl": null
+    },
+    "11129664": {
+      "id": "11129664",
+      "title": "Skjelmose står på startlisten til Catalonien Rundt",
+      "url": "/landevej/skjelmose-staar-paa-startlisten-til-catalonien-rundt/11129664",
+      "description": "Mattias Skjelmose kommer med al sandsynlighed til at køre årets Catalonien Rundt, der skydes i gang i morgen",
+      "published": "2026-03-22T08:49:25Z",
+      "tags": [
+        "Catalonien Rundt stats"
+      ],
+      "imageUrl": "https://www.feltet.dk/p-image/Pa-ufH_BKUwewXJa2KMk-9F_OVHYWzQFavMF3JmuT8I/AAADNkJ5d3A/feltet/11040435/{representation}/"
     }
   }
 }
