@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sun, 22 Mar 2026 09:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 09:33:28 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Medie: Van Aert springer klassiker over</title>
+      <link>https://www.feltet.dk/landevej/medie-van-aert-springer-klassiker-over/11129687</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/medie-van-aert-springer-klassiker-over/11129687</guid>
+      <pubDate>Sun, 22 Mar 2026 09:29:20 GMT</pubDate>
+      <description>Wout van Aert kommer ikke til at køre E3 Saxo Classic, skriver flere medier</description>
+
+    </item>
     <item>
       <title>Absurd: Pogacar sætter ny milepæl </title>
       <link>https://www.feltet.dk/landevej/absurd-pogacar-saetter-ny-milepael/11129677</link>
@@ -825,14 +833,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/van-aert-faar-ekspert-raad-eneste-maade-han-kan-vinde-sanremo/11125063</guid>
       <pubDate>Tue, 17 Mar 2026 08:54:34 GMT</pubDate>
       <description>Belgieren bør følge en meget simpel opskrift, mener eksperten</description>
-
-    </item>
-    <item>
-      <title>Groupama forlænger med klatrer</title>
-      <link>https://www.feltet.dk/landevej/groupama-forlaenger-med-klatrer/11124785</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/groupama-forlaenger-med-klatrer/11124785</guid>
-      <pubDate>Mon, 16 Mar 2026 19:30:00 GMT</pubDate>
-      <description>Clément Braz Afonso skal køre på Groupama-FDJ en række år endnu</description>
 
     </item>
   </channel>
