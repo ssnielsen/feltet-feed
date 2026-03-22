@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sun, 22 Mar 2026 11:25:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 11:40:27 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Optimistisk Wandahl: - Jeg tror godt, de kan matche Jonas</title>
+      <link>https://www.feltet.dk/landevej/optimistisk-wandahl-jeg-tror-godt-de-kan-matche-jonas/11129749</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/optimistisk-wandahl-jeg-tror-godt-de-kan-matche-jonas/11129749</guid>
+      <pubDate>Sun, 22 Mar 2026 11:31:49 GMT</pubDate>
+      <description>Frederik Wandahl ser frem mod Catalonien Rundt, hvor han er en del af et stjernespækket mandskab, der skal tage kampen op imod Jonas Vingegaard</description>
+
+    </item>
     <item>
       <title>Roglic trækker i land: - Måske var der tale om en lille misforståelse</title>
       <link>https://www.feltet.dk/landevej/roglic-traekker-i-land-maaske-var-der-tale-om-en-lille-misforstaaelse/11129732</link>
@@ -825,14 +833,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/her-er-pogacars-tropper-til-milano-sanremo/11125286</guid>
       <pubDate>Tue, 17 Mar 2026 11:08:42 GMT</pubDate>
       <description>Det bliver som ventet en stærk affyrringsrampe sloveneren får med sig til årets første monument</description>
-
-    </item>
-    <item>
-      <title>Cykelhold røvet ved højlys dag: Chef truet med kniv</title>
-      <link>https://www.feltet.dk/landevej/cykelhold-roevet-ved-hoejlys-dag-chef-truet-med-kniv/11125141</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/cykelhold-roevet-ved-hoejlys-dag-chef-truet-med-kniv/11125141</guid>
-      <pubDate>Tue, 17 Mar 2026 10:09:45 GMT</pubDate>
-      <description>Holdet mistede flere cykler</description>
 
     </item>
   </channel>
