@@ -5,8 +5,25 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 15:10:33 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Catalonien Spillet: Wandahl giver tip til åbningsetapen</title>
+      <link>https://www.feltet.dk/landevej/catalonien-spillet-wandahl-giver-tip-til-aabningsetapen/11128635</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/catalonien-spillet-wandahl-giver-tip-til-aabningsetapen/11128635</guid>
+      <pubDate>Sun, 22 Mar 2026 15:00:00 GMT</pubDate>
+      <description>Få et tip til dit managerhold til 1. etape af Catalonien Rundt fra en mand, der selv sidder i feltet</description>
+
+    </item>
+    <item>
+      <title>Perfekt weekend: Vanvittig spurt sikrede ny sejr til Groenewegen </title>
+      <link>https://www.feltet.dk/landevej/perfekt-weekend-vanvittig-spurt-sikrede-ny-sejr-til-groenewegen/11129909</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/perfekt-weekend-vanvittig-spurt-sikrede-ny-sejr-til-groenewegen/11129909</guid>
+      <pubDate>Sun, 22 Mar 2026 14:56:44 GMT</pubDate>
+      <description>Dylan Groenewegen timede sin spurt til perfektion i GP Monseré</description>
+      <category>GP Monseré</category>
+      <category>GP Monseré Stats</category>
+    </item>
     <item>
       <title>Feltets Fiduser: Catalonien Rundt</title>
       <link>https://www.feltet.dk/plus/feltets-fiduser-catalonien-rundt/11128070</link>
@@ -817,22 +834,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/sportsdirektoer-forlod-visma-koerte-paa-autopilot/11125492</guid>
       <pubDate>Tue, 17 Mar 2026 14:15:00 GMT</pubDate>
       <description>Endnu en nu tidligere Visma-mand åbner op om sit brud med storholdet</description>
-
-    </item>
-    <item>
-      <title>Casper P. frygter for dansk cykling: - Ville være en katastrofe</title>
-      <link>https://www.feltet.dk/landevej/casper-p.-frygter-for-dansk-cykling-ville-vaere-en-katastrofe/11121572</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/casper-p.-frygter-for-dansk-cykling-ville-vaere-en-katastrofe/11121572</guid>
-      <pubDate>Tue, 17 Mar 2026 13:31:58 GMT</pubDate>
-      <description>Det kan få store konsekvenser, hvis ikke landsholdet og Danmark Rundt finder en ny sponsor, mener Casper Pedersen</description>
-
-    </item>
-    <item>
-      <title>Var i store smerter: Nu træner Ayuso igen</title>
-      <link>https://www.feltet.dk/landevej/var-i-store-smerter-nu-traener-ayuso-igen/11125364</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/var-i-store-smerter-nu-traener-ayuso-igen/11125364</guid>
-      <pubDate>Tue, 17 Mar 2026 12:29:32 GMT</pubDate>
-      <description>Styrtet i Paris-Nice var ellers et af de rigtig grimme af slagsen</description>
 
     </item>
   </channel>
