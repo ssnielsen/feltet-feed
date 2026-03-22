@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-22T13:47:46.995Z",
+  "lastRun": "2026-03-22T14:12:10.699Z",
   "articles": {
     "11115701": {
       "id": "11115701",
@@ -1019,6 +1019,17 @@
       ],
       "imageUrl": "https://www.feltet.dk/p-image/7nLf87NpOatq5ZOECDyN62oQ_Db5-ASv1TMpHOnx1cE/AAADOhTcoTA/feltet/11128054/{representation}/"
     },
+    "11128070": {
+      "id": "11128070",
+      "title": "Feltets Fiduser: Catalonien Rundt",
+      "url": "/plus/feltets-fiduser-catalonien-rundt/11128070",
+      "description": "Mulighederne er gode for danske succes i den kommende uge i Catalonien. Hvor stor en favorit er Vingegaard? Kan Cort tro på sejr? Vi giver vores bud her",
+      "published": "2026-03-22T14:00:00Z",
+      "tags": [
+        "Volta a Catalunya"
+      ],
+      "imageUrl": "https://www.feltet.dk/p-image/GdZ0lzk3l6bkM1EJsiiF8vmqHYDjPaJPVaOpkbqjV3o/AAADOcZXzLA/feltet/11121243/{representation}/"
+    },
     "11128072": {
       "id": "11128072",
       "title": "- Så er det ikke Cipollini, der pludselig vinder",
@@ -1425,6 +1436,17 @@
       "published": "2026-03-22T12:25:22Z",
       "tags": [],
       "imageUrl": null
+    },
+    "11129840": {
+      "id": "11129840",
+      "title": "Vingegaard meget imponeret af Pogacar",
+      "url": "/landevej/vingegaard-meget-imponeret-af-pogacar/11129840",
+      "description": "Danskeren holdt øje med lørdagens Milano-Sanremo",
+      "published": "2026-03-22T13:55:43Z",
+      "tags": [
+        "Jonas Vingegaard"
+      ],
+      "imageUrl": "https://www.feltet.dk/p-image/gAp7TEC0t3XgjgWhAZtBZvi_kwfLBIB51syguRgPiq0/AAADOhZvP4A/feltet/11128404/{representation}/"
     }
   }
 }

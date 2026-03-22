@@ -5,8 +5,24 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sun, 22 Mar 2026 13:47:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 14:12:10 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Feltets Fiduser: Catalonien Rundt</title>
+      <link>https://www.feltet.dk/plus/feltets-fiduser-catalonien-rundt/11128070</link>
+      <guid isPermaLink="true">https://www.feltet.dk/plus/feltets-fiduser-catalonien-rundt/11128070</guid>
+      <pubDate>Sun, 22 Mar 2026 14:00:00 GMT</pubDate>
+      <description>Mulighederne er gode for danske succes i den kommende uge i Catalonien. Hvor stor en favorit er Vingegaard? Kan Cort tro på sejr? Vi giver vores bud her</description>
+      <category>Volta a Catalunya</category>
+    </item>
+    <item>
+      <title>Vingegaard meget imponeret af Pogacar</title>
+      <link>https://www.feltet.dk/landevej/vingegaard-meget-imponeret-af-pogacar/11129840</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/vingegaard-meget-imponeret-af-pogacar/11129840</guid>
+      <pubDate>Sun, 22 Mar 2026 13:55:43 GMT</pubDate>
+      <description>Danskeren holdt øje med lørdagens Milano-Sanremo</description>
+      <category>Jonas Vingegaard</category>
+    </item>
     <item>
       <title>UAE-profil har brækket kravebenet</title>
       <link>https://www.feltet.dk/landevej/uae-profil-har-braekket-kravebenet/11129786</link>
@@ -817,22 +833,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/var-i-store-smerter-nu-traener-ayuso-igen/11125364</guid>
       <pubDate>Tue, 17 Mar 2026 12:29:32 GMT</pubDate>
       <description>Styrtet i Paris-Nice var ellers et af de rigtig grimme af slagsen</description>
-
-    </item>
-    <item>
-      <title>Stjerne gør comeback efter hjerteoperation</title>
-      <link>https://www.feltet.dk/landevej/stjerne-goer-comeback-efter-hjerteoperation/11125340</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/stjerne-goer-comeback-efter-hjerteoperation/11125340</guid>
-      <pubDate>Tue, 17 Mar 2026 12:11:51 GMT</pubDate>
-      <description>Han er klar til sit første løb for sit nye hold</description>
-
-    </item>
-    <item>
-      <title>Efter Strade-styrt: Albert Philipsen klar til løb igen</title>
-      <link>https://www.feltet.dk/landevej/efter-strade-styrt-albert-philipsen-klar-til-loeb-igen/11125330</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/efter-strade-styrt-albert-philipsen-klar-til-loeb-igen/11125330</guid>
-      <pubDate>Tue, 17 Mar 2026 11:49:50 GMT</pubDate>
-      <description>Den danske komet skal køre løb onsdag</description>
 
     </item>
   </channel>
