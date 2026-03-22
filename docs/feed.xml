@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sun, 22 Mar 2026 08:56:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 09:15:09 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Absurd: Pogacar sætter ny milepæl </title>
+      <link>https://www.feltet.dk/landevej/absurd-pogacar-saetter-ny-milepael/11129677</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/absurd-pogacar-saetter-ny-milepael/11129677</guid>
+      <pubDate>Sun, 22 Mar 2026 09:06:02 GMT</pubDate>
+      <description>Tadej Pogacar er garant for at køre på podiet, når han stiller til start i et monument</description>
+
+    </item>
     <item>
       <title>Skjelmose står på startlisten til Catalonien Rundt</title>
       <link>https://www.feltet.dk/landevej/skjelmose-staar-paa-startlisten-til-catalonien-rundt/11129664</link>
@@ -825,14 +833,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/groupama-forlaenger-med-klatrer/11124785</guid>
       <pubDate>Mon, 16 Mar 2026 19:30:00 GMT</pubDate>
       <description>Clément Braz Afonso skal køre på Groupama-FDJ en række år endnu</description>
-
-    </item>
-    <item>
-      <title>Debuterer som 38-årig: Vil ramme 300 kilometer på Strava</title>
-      <link>https://www.feltet.dk/landevej/debuterer-som-38-aarig-vil-ramme-300-kilometer-paa-strava/11124763</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/debuterer-som-38-aarig-vil-ramme-300-kilometer-paa-strava/11124763</guid>
-      <pubDate>Mon, 16 Mar 2026 19:00:00 GMT</pubDate>
-      <description>Wout Poels skal prøve noget, som han ikke har prøvet før</description>
 
     </item>
   </channel>
