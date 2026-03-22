@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-22T06:49:04.302Z",
+  "lastRun": "2026-03-22T07:21:03.277Z",
   "articles": {
     "11115701": {
       "id": "11115701",
@@ -1336,6 +1336,17 @@
       "published": "2026-03-21T19:50:00Z",
       "tags": [],
       "imageUrl": null
+    },
+    "11129569": {
+      "id": "11129569",
+      "title": "Catalonien Manager: Ekspertens hold til 1. etape",
+      "url": "/plus/catalonien-manager-ekspertens-hold-til-1.-etape/11129569",
+      "description": "Feltets ekspert giver sit bud på de bedste valg til det nye managerspil",
+      "published": "2026-03-22T07:00:00Z",
+      "tags": [
+        "Managerspil"
+      ],
+      "imageUrl": "https://www.feltet.dk/p-image/yuRhNiKwaVgxHuNRMm9KZZjxZxM0td4gmxjnstlB1UY/AAADOiUnf2A/feltet/11129577/{representation}/"
     }
   }
 }

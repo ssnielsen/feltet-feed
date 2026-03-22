@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sun, 22 Mar 2026 06:49:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 07:21:03 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Catalonien Manager: Ekspertens hold til 1. etape</title>
+      <link>https://www.feltet.dk/plus/catalonien-manager-ekspertens-hold-til-1.-etape/11129569</link>
+      <guid isPermaLink="true">https://www.feltet.dk/plus/catalonien-manager-ekspertens-hold-til-1.-etape/11129569</guid>
+      <pubDate>Sun, 22 Mar 2026 07:00:00 GMT</pubDate>
+      <description>Feltets ekspert giver sit bud på de bedste valg til det nye managerspil</description>
+      <category>Managerspil</category>
+    </item>
     <item>
       <title>Faxe Kondis store plan: Vil gøre Uno-X til Danmarks cykelhold</title>
       <link>https://www.feltet.dk/plus/faxe-kondis-store-plan-vil-goere-uno-x-til-danmarks-cykelhold/11125344</link>
@@ -825,14 +833,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/giro-debut-ligger-i-kortene-for-dansker-foerst-venter-store-klassikere/11124653</guid>
       <pubDate>Mon, 16 Mar 2026 17:40:00 GMT</pubDate>
       <description>William Blume Levy kan se frem mod et stort forår med tre monumenter undervejs</description>
-
-    </item>
-    <item>
-      <title>Merliers comeback lader vente på sig</title>
-      <link>https://www.feltet.dk/landevej/merliers-comeback-lader-vente-paa-sig/11124606</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/merliers-comeback-lader-vente-paa-sig/11124606</guid>
-      <pubDate>Mon, 16 Mar 2026 17:10:00 GMT</pubDate>
-      <description>Belgieren har endnu ikke været i aktion i 2026</description>
 
     </item>
   </channel>
