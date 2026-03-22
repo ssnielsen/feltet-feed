@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-03-22T11:40:27.374Z",
+  "lastRun": "2026-03-22T11:52:40.585Z",
   "articles": {
     "11115701": {
       "id": "11115701",
@@ -1412,7 +1412,9 @@
       "url": "/landevej/optimistisk-wandahl-jeg-tror-godt-de-kan-matche-jonas/11129749",
       "description": "Frederik Wandahl ser frem mod Catalonien Rundt, hvor han er en del af et stjernespækket mandskab, der skal tage kampen op imod Jonas Vingegaard",
       "published": "2026-03-22T11:31:49Z",
-      "tags": [],
+      "tags": [
+        "Frederik Wandahl"
+      ],
       "imageUrl": "https://www.feltet.dk/p-image/aWasfrMu6XiWM_RU27ps2sNw6mtlED9sr-KwPNK7bPw/AAADOiqnFyA/feltet/11129751/{representation}/"
     }
   }
