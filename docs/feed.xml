@@ -5,8 +5,16 @@
     <link>https://www.feltet.dk</link>
     <description>Seneste nyheder fra feltet.dk - dansk cykelsport</description>
     <language>da</language>
-    <lastBuildDate>Sun, 22 Mar 2026 09:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 09:55:29 GMT</lastBuildDate>
     <atom:link href="https://ssnielsen.github.io/feltet-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fløj ud over autoværnet: Nu er der nyt </title>
+      <link>https://www.feltet.dk/landevej/floej-ud-over-autovaernet-nu-er-der-nyt/11129713</link>
+      <guid isPermaLink="true">https://www.feltet.dk/landevej/floej-ud-over-autovaernet-nu-er-der-nyt/11129713</guid>
+      <pubDate>Sun, 22 Mar 2026 09:49:57 GMT</pubDate>
+      <description>Debora Silvestri røg ud over autoværnet på nedkørslen fra Cipressa-stigningen i gårsdagens Milano-Sanremo</description>
+
+    </item>
     <item>
       <title>Medie: Van Aert springer klassiker over</title>
       <link>https://www.feltet.dk/landevej/medie-van-aert-springer-klassiker-over/11129687</link>
@@ -825,14 +833,6 @@
       <guid isPermaLink="true">https://www.feltet.dk/landevej/vingegaards-superhjaelper-aabner-op-om-enorm-opofrelse/11125098</guid>
       <pubDate>Tue, 17 Mar 2026 09:25:12 GMT</pubDate>
       <description>Victor Campenaerts har dedikeret sit liv til at være den bedst mulige hjælper for Jonas Vingegaard</description>
-
-    </item>
-    <item>
-      <title>Van Aert får ekspert-råd: Eneste måde han kan vinde Sanremo</title>
-      <link>https://www.feltet.dk/landevej/van-aert-faar-ekspert-raad-eneste-maade-han-kan-vinde-sanremo/11125063</link>
-      <guid isPermaLink="true">https://www.feltet.dk/landevej/van-aert-faar-ekspert-raad-eneste-maade-han-kan-vinde-sanremo/11125063</guid>
-      <pubDate>Tue, 17 Mar 2026 08:54:34 GMT</pubDate>
-      <description>Belgieren bør følge en meget simpel opskrift, mener eksperten</description>
 
     </item>
   </channel>
